@@ -22,7 +22,7 @@ There is no step 2.
 
 ### Give credit to content creators
 
-As a content creator yourself, you probably appreciate the value in improve sharing and discoverability of your work.  If your work builds off of others, it only makes sense to credit them for their contribution - regardless of whether monetary gain takes place.
+As a content creator yourself, you probably appreciate the value in improving sharing and discoverability of your work.  If your work builds off of others, it only makes sense to credit them for their contribution - regardless of whether monetary gain takes place.
 
 ### Support your followers
 
