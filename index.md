@@ -1,8 +1,9 @@
-You're here because you made something wonderful!  Yet one of your viewers is frustrated because they can't find the song in your video.
+You're here because you made something wonderful!
 
-Consider sharing that song information with the viewer who sent you here!  I'm sure they would appreciate it!
+Yet one of your viewers is frustrated because they can't find the song in your video.
 
-You could also improve your publishing process to reduce future frustration!  It's super easy!
+Consider sharing that song info with the viewer who sent you here!  I'm sure they would appreciate it!  You could also improve your publishing process to reduce future frustration!  It's super easy!
+
 
 ## How?
 
@@ -14,11 +15,12 @@ Song: Sandstorm (Radio Edit) - Darude
 
 There is no step 2.
 
+
 ## Why?
 
 ### Give credit to content creators
 
-As a content creator yourself, you probably appreciate the value in improve sharing and discoverability of your work.  If your work builds off of others, it only makes sense to credit them for their contribution - regardless of whether monetary gain takes pla
+As a content creator yourself, you probably appreciate the value in improve sharing and discoverability of your work.  If your work builds off of others, it only makes sense to credit them for their contribution - regardless of whether monetary gain takes place.
 
 ### Support your followers
 
