@@ -2,7 +2,9 @@ You're here because you made something wonderful!
 
 Yet one of your viewers is frustrated because they can't find the song in your video.
 
-Consider sharing that song info with the viewer who sent you here!  I'm sure they would appreciate it!  You could also improve your publishing process to reduce future frustration!  It's super easy!
+Consider sharing that song info with the viewer who sent you here!  I'm sure they would appreciate it!
+
+You could also improve your publishing process to reduce future frustration!  It's super easy!
 
 
 ## How?
