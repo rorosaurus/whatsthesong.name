@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+You're here because you made something wonderful!  Yet one of your viewers is frustrated because they can't find the song in your video.
 
-You can use the [editor on GitHub](https://github.com/rorosaurus/whatsthesong.name/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Consider sharing that song information with the viewer who sent you here!  I'm sure they would appreciate it!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You could also improve your publishing process to reduce future frustration!  It's super easy!
 
-### Markdown
+## How?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Step 1: Add a line of text to the description of your video, like this:
 
-```markdown
-Syntax highlighted code block
+````
+Song: Sandstorm (Radio Edit) - Darude
+````
 
-# Header 1
-## Header 2
-### Header 3
+There is no step 2.
 
-- Bulleted
-- List
+## Why?
 
-1. Numbered
-2. List
+### Give credit to content creators
 
-**Bold** and _Italic_ and `Code` text
+As a content creator yourself, you probably appreciate the value in improve sharing and discoverability of your work.  If your work builds off of others, it only makes sense to credit them for their contribution - regardless of whether monetary gain takes pla
 
-[Link](url) and ![Image](src)
-```
+### Support your followers
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Good news: Your viewers enjoy your content!  You wouldn't be here if they weren't consuming it.
 
-### Jekyll Themes
+But they don't enjoy your content exclusively.  Who are you to stand between them and enjoying that awesome song you introduced them to?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rorosaurus/whatsthesong.name/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This is an opportunity to springboard them into a whole network of similar content they might enjoy!  Your viewers will feel a more open and personal connection with you.  They will enjoy your content more and be more likely to share it.
 
-### Support or Contact
+### Gain new followers
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Between related/recommended videos, mix playlists, and seach queries, new viewers will be more likely to find your content if you include additional text/tags/metadata!
+
+## Don't be upset - be proud
+
+Yes, this website was likely sent to you out of sass.  It can be very frustrating to enjoy content from creators who routinely put lengthy build specifications or sponsor links in the description, yet fail to spend a single line of text to credit the artist whose song they relied on to establish the tone and emotion for their video.
+
+You made someone feel good with the combination of sights and sounds you produced!  Be proud!  But be humble and transparent, too.
+
+None of us got here alone.
